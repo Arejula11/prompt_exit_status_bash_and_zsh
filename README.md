@@ -1,1 +1,1 @@
-# prompt_exit_status_bash_and_zsh
+# Prompt exit status bash and zsh
