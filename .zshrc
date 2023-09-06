@@ -32,7 +32,15 @@ alias ls='ls --color=auto'
    alias goAdsis='cd ~/Documents/Universidad/2º/ADSIS'
    alias goTecpro='cd ~/Documents/Universidad/2º/TECPRO'
    alias goIpo='cd ~/Documents/Universidad/2º/IPO'
-   
+  
+   alias goTercero='cd ~/Documents/Universidad/3º'
+   alias goIA='cd ~/Documents/Universidad/3º/IA'
+   alias goIngSof='cd ~/Documents/Universidad/3º/IngSof'
+   alias goPH='cd ~/Documents/Universidad/3º/PH'
+   alias goSisDis='cd ~/Documents/Universidad/3º/SisDis'
+   alias goSisInfo='cd ~/Documents/Universidad/3º/SisInfo'
+
+ 
 
 #Prompt
 
